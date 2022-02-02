@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to the profile of Gavin Sykes `(He/Him)` from Huddersfield in the UK 🇬🇧. Here you'll learn a bit about who I am, what I do, and how it all came about.
+
+Ready? Let's go!
+
+<!--
+
 ## 🛠️ Techologies and Tools
 ![](https://img.shields.io/badge/tool-Apache-informational?style=flat&logo=Apache&logoColor=D22128&color=2bbc8a)
 ![](https://img.shields.io/badge/tool-Apache%20OpenOffice-informational?style=flat&logo=Apache-Openoffice&logoColor=0E85CD&color=2bbc8a)
@@ -62,7 +68,7 @@
 Languages I speak:
  - 🇬🇧 Obviously!
  - 🇪🇸 Desde que tenía 11 años he hablado castellano y es mi segunda lengua
- - 🏴󠁥󠁳󠁣󠁴󠁿 També parlo català a causa de que hi vivia durant un any
+ - 🇦🇩 També parlo català a causa de que hi vivia durant un any (Estic fent servir la bandera d'Andorra perquè té un emoji)
  - 🇮🇹 Parlo anche italiano, non tanto quanto lo spagnolo ma piuttosto
 
 Languages I am learning:
